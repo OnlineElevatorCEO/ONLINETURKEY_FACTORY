@@ -6,3 +6,7 @@ body { background: #0a0a0a; color: #ffffff; letter-spacing: 0.5px; }
 .modal-backdrop, .backdrop, .overlay { display: none !important; pointer-events: none !important; }
 body { overflow: auto !important; position: static !important; }
 .cart-container, #checkout-button { z-index: 99999 !important; position: relative !important; pointer-events: auto !important; }
+/* HMA MASTER CART & CHECKOUT FIX */
+.cart-page, .checkout-page { position: relative !important; z-index: 9999 !important; background: transparent !important; }
+.global-overlay, .modal-backdrop, .header-overlay { pointer-events: none !important; opacity: 0 !important; display: none !important; }
+body.cart-open, body.checkout-open { overflow: auto !important; }
