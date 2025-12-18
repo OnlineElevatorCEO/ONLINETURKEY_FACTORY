@@ -1,2 +1,0 @@
-﻿# 04_QSOC_CHIP - MASTER CONTROL
-- Status: SEALED
