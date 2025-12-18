@@ -1,0 +1,1 @@
+﻿import PDFDocument from 'pdfkit'; import fs from 'fs'; export const createInvoice = (order) => { const doc = new PDFDocument(); const path = 'invoices/HMA-2025-' + order.id + '.pdf'; doc.pipe(fs.createWriteStream(path)); doc.text('ONLINE TURKEY FATURA'); doc.text('Sipariş: ' + order.id); doc.text('Tutar: ' + order.amount + ' USD'); doc.end(); return path; };
