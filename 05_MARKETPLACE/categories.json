@@ -1,0 +1,5 @@
+﻿[
+  {"name": "Elektronik", "sub": ["Telefon", "Bilgisayar", "Aksesuar"]},
+  {"name": "Dijital Hizmetler", "sub": ["Yazılım Lisans", "Kuantum Motoru", "API Erişimi"]},
+  {"name": "Kurumsal", "sub": ["Danışmanlık", "Global Pay Dağıtım"]}
+]
