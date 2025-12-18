@@ -2,3 +2,7 @@
 body { background: #0a0a0a; color: #ffffff; letter-spacing: 0.5px; }
 .product-card { border: 1px solid #333; transition: transform 0.3s; background: rgba(255,255,255,0.02); }
 .product-card:hover { transform: translateY(-10px); border-color: #f0c14b; box-shadow: 0 10px 30px rgba(240,193,75,0.1); }
+/* PERDE VE BACKDROP ENGELLERİ KALDIRILDI - HMA MASTER */
+.modal-backdrop, .backdrop, .overlay { display: none !important; pointer-events: none !important; }
+body { overflow: auto !important; position: static !important; }
+.cart-container, #checkout-button { z-index: 99999 !important; position: relative !important; pointer-events: auto !important; }
