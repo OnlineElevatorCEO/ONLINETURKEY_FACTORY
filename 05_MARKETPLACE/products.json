@@ -1,14 +1,1 @@
-﻿[
-    {
-        "id":  "ELIF-01",
-        "name":  "ELIF Quantum Engine",
-        "price":  9999,
-        "currency":  "USD"
-    },
-    {
-        "id":  "QSOC-01",
-        "name":  "Q-SOC Chip V1",
-        "price":  4500,
-        "currency":  "USD"
-    }
-]
+﻿[{"id":1,"name":"iPhone 15 Pro Max","price":1,"currency":"TRY","stock":45}]
