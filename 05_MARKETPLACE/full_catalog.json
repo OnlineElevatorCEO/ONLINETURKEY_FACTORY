@@ -1,0 +1,6 @@
+﻿[
+  {"id": 1, "main": "Elektronik", "subs": ["Akıllı Telefon", "Laptop", "Giyilebilir Teknoloji", "Donanım"]},
+  {"id": 2, "main": "Dijital Yazılım", "subs": ["HMA Quantum Engine", "Siber Güvenlik Lisansı", "Bulut API", "Mesh Network Access"]},
+  {"id": 3, "main": "Global Ticaret", "subs": ["Danışmanlık Hizmetleri", "Lojistik Çözümleri", "Ödeme Entegrasyonları"]},
+  {"id": 4, "main": "Lüks Koleksiyon", "subs": ["Özel Tasarım Ürünler", "VIP Hizmetler"]}
+]

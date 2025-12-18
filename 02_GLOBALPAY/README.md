@@ -1,2 +1,0 @@
-﻿# 02_GLOBALPAY - MASTER CONTROL
-- Status: SEALED

@@ -1,2 +1,0 @@
-﻿# 01_ELIF_CORE - MASTER CONTROL
-- Status: SEALED
