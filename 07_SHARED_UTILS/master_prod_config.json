@@ -1,0 +1,5 @@
+﻿{
+  "project": "ONLINETURKEY", "owner": "HMA", "status": "PROD_LIVE",
+  "modules": ["PayTR_Live", "PDF_Invoice", "SMTP_Mail", "Digital_Vault", "Stock_Sync", "Global_Currency", "HMA_2025_Seal"],
+  "security": { "env_protection": true, "webhook_hash": "SHA256", "ntfs_shield": true }
+}
