@@ -1,4 +1,2 @@
-﻿export const listOrders = async (req, res) => {
-  const orders = JSON.parse(require('fs').readFileSync('orders.json','utf8'));
-  res.json(orders);
-};
+﻿import fs from 'fs';
+export const orders=(req,res)=>res.json(JSON.parse(fs.readFileSync('orders.json','utf8')));
